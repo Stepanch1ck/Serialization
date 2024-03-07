@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Name>Небесный лыжный курорт</Name>
+	<Location>Южное озеро Тахо, Калифорния</Location>
+	<SkiRuns>
+		<SkiRun>
+			<Name>Каньон Мотта</Name>
+			<Difficulty>средняя</Difficulty>
+			<Length>4 км</Length>
+			<Description>Веселая и живописная трасса с разнообразным рельефом.</Description>
+		</SkiRun>
+		<SkiRun>
+			<Name>K</Name>
+			<Difficulty>Экспертная</Difficulty>
+			<Length>2.4 км</Length>
+			<Description>Сложная трасса с крутыми спусками и буграми.</Description>
+		</SkiRun>
+		<SkiRun>
+			<Name>Хребетная трасса</Name>
+			<Difficulty>Для начинащих</Difficulty>
+			<Length>1.6 км</Length>
+			<Description>Широкая и пологая трасса, идеально подходит для обучения.</Description>
+		</SkiRun>
+	</SkiRuns>
+	<Lodges>
+		<Lodge>
+			<Name>Небасная деревня</Name>
+			<Rooms>1 000 номеров</Rooms>
+			<Description>Роскошный отель с прямым доступом к склонам.</Description>
+		</Lodge>
+		<Lodge>
+			<Name>Курорт на гребне</Name>
+			<Rooms>500 комнат</Rooms>
+			<Description>Комфортабельный отель с потрясающими видами.</Description>
+		</Lodge>
+	</Lodges>
+	<SkiEquipments>
+		<SkiEquipment>
+			<Type>Лыжи</Type>
+			<Brand>Rossignol</Brand>
+			<Price>800</Price>
+			<Description>Высокопроизводительные лыжм для любого уровня катания.</Description>
+		</SkiEquipment>
+		<SkiEquipment>
+			<Type>Сноуборд</Type>
+			<Brand>Burton</Brand>
+			<Price>600</Price>
+			<Description>Универсальный сноуборд для любого рельефа.</Description>
+		</SkiEquipment>
+		<SkiEquipment>
+			<Type>Ботинки</Type>
+			<Brand>Dalbello</Brand>
+			<Price>300</Price>
+			<Description>Комфортные и поддерживающие ботинки для катания на лыжах в течение всего дня.</Description>
+		</SkiEquipment>
+	</SkiEquipments>
+</root>
